@@ -11,4 +11,5 @@ These postings list are also called inverted files or inverted list and the sear
 Since indexd is a background daemon an easy way to start it is to run on the command line the following.
  
 Example:
+
 	./indexd
